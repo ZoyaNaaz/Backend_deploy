@@ -1,0 +1,21 @@
+{
+  "name": "beckend_deploy",
+  "version": "1.0.0",
+  "description": "a basic app to deploy backend",
+  "keywords": [
+    "node",
+    "app"
+  ],
+  "license": "ISC",
+  "author": "zoya naaz",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "env": "^0.0.2",
+    "express": "^5.1.0"
+  }
+}
