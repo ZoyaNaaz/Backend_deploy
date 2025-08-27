@@ -45,9 +45,6 @@ To deploy the backend application, follow these steps:
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome contributions of all kinds!
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to reach out if you have any questions or need further assistance!
